@@ -1,4 +1,3 @@
-# python program for a tkinter-based maths quiz
 import tkinter as tk
 from tkinter import messagebox
 import random

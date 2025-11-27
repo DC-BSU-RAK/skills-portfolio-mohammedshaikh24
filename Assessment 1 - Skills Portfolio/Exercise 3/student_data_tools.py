@@ -1,4 +1,3 @@
-# python program for student records management
 import tkinter as tk
 from tkinter import messagebox, ttk
 import os, sys
